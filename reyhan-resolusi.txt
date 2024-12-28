@@ -2,3 +2,5 @@ REYHAN RESOLUSI
 - Belajar Javascript
 - Belajar GIT/GITHUB
 - Belajar PHP
+- Belajar HTML
+- Belajar Cloud Computing
